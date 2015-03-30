@@ -1,0 +1,7 @@
+FROM ubuntu-debootstrap:14.04
+
+RUN echo test image 2
+
+
+CMD echo test image 2
+
